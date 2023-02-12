@@ -108,6 +108,12 @@ body::after{
     .content .image img {
         width: 260px;
     }
+     .content .text h2 {
+        font-size: 30px;
+    }
+    .content .text p {
+        font-size: 15px;
+    }
 
 }
 /* @media (min-width:600) and (max-width: 950px){
